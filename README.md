@@ -1,7 +1,7 @@
 # Data Science from Scratch Notebooks
 This project aims at teaching you the fundamentals of Data Science with python. It contains the example code and case studies. It is constitute the practical part of our AI Sciences book: Data Science from Scratch with Python
 
-<img src="AIPUBLISHING_dsfswp.jpg" width="200">
+<img src="AIPUBLISHING_dsfswp_VN.png" width="200">
 
 Simply open the Jupyter notebooks you are interested in:
 * Option 1: Using jupyter.org's notebook viewer. Github.com's notebook viewer also works but it is slower and the math formulas are not displayed correctly.
