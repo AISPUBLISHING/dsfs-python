@@ -1,0 +1,636 @@
+Year,Mileage,Price,Color,Location,Model,Age
+1990,NA,1600,NA,Phoenix,NA,19
+1994,94000,1988,white,Phoenix,GL,15
+1995,NA,2288,white,Phoenix,NA,14
+1995,68000,2495,NA,Phoenix,NA,14
+1995,NA,1995,NA,Phoenix,GL,14
+1996,115730,2199,beige,Phoenix,GL,13
+1997,74564,2995,green,Phoenix,GL,12
+1998,143000,1200,blue,Fresno,SE,11
+1998,91000,2488,red,Phoenix,NA,11
+1999,88000,9999999,white,Phoenix,NA,10
+1999,85000,2488,white,Phoenix,SE,10
+2000,94727,3879,gray,Phoenix,SES,9
+2000,115123,2995,white,Phoenix,SE,9
+2000,99000,2988,gray,Phoenix,SES,9
+2000,NA,2488,white,Phoenix,SES,9
+2001,NA,2988,red,Phoenix,SES,8
+2002,NA,2800,blue,Phoenix,SE,7
+2002,54631,7599,red,Phoenix,SE,7
+2002,NA,2788,gray,Phoenix,SEL,7
+2002,NA,3488,gray,Phoenix,SE,7
+2002,121164,4599,beige,Phoenix,SES,7
+2002,NA,3488,white,Phoenix,SE,7
+2003,68923,7900,gray,Phoenix,SES,6
+2003,80267,6491,white,Phoenix,SES,6
+2003,NA,4500,NA,Phoenix,SE,6
+2004,71958,8995,gray,Fresno,SES,5
+2004,76814,6695,blue,Phoenix,SES,5
+2004,20581,9998,blue,Phoenix,SE,5
+2004,45800,7200,blue,Phoenix,SE,5
+2004,101260,4975,blue,Phoenix,SE,5
+2004,NA,3495,gold,Phoenix,SE,5
+2004,53500,6345,green,Phoenix,LX,5
+2004,88324,5977,green,Phoenix,SES,5
+2004,52939,6999,white,Phoenix,SE,5
+2004,NA,3695,white,Phoenix,SE,5
+2005,56297,9599,white,Fresno,SE,4
+2005,41928,9998,white,Fresno,SEL,4
+2005,47242,8398,beige,Phoenix,SEL,4
+2005,127000,4295,black,Phoenix,SE,4
+2005,NA,8497,blue,Phoenix,SEL,4
+2005,53797,6590,gray,Phoenix,SE,4
+2005,53797,6590,gray,Phoenix,SE,4
+2005,53090,6991,green,Phoenix,SE,4
+2005,38766,6982,green,Phoenix,SEL,4
+2005,66098,5999,green,Phoenix,SE,4
+2005,45209,8725,gray,Phoenix,SEL,4
+2005,93619,NA,gray,Phoenix,SE,4
+2005,68176,8294,blue,Phoenix,SEL,4
+2006,43050,9599,blue,Fresno,SE,3
+2006,55377,10995,gray,Fresno,SEL,3
+2006,46834,10995,gray,Fresno,SEL,3
+2006,40832,9499,white,Fresno,SE,3
+2006,61831,7995,white,Fresno,SE,3
+2006,23776,10599,beige,Phoenix,SE,3
+2006,39032,9551,blue,Phoenix,SE,3
+2006,51440,8998,burgundy,Phoenix,SE,3
+2006,68096,6500,gold,Phoenix,SEL,3
+2006,46313,6995,gold,Phoenix,SE,3
+2006,NA,4295,gold,Phoenix,SE,3
+2006,54000,NA,gold,Phoenix,SE,3
+2006,48410,NA,gray,Phoenix,SEL,3
+2006,35784,8999,green,Phoenix,SEL,3
+2006,58507,8022,green,Phoenix,SE,3
+2006,43425,13995,gray,Phoenix,SEL,3
+2006,28981,10998,gray,Phoenix,SE,3
+2006,40396,10349,gray,Phoenix,SEL,3
+2006,32861,7988,white,Phoenix,SE,3
+2006,50081,6800,white,Phoenix,SE,3
+2006,49391,6700,gray,Phoenix,SE,3
+2007,44561,9995,brown,Fresno,SE,2
+2007,44580,9714,gold,Fresno,SE,2
+2007,44604,9714,gold,Fresno,SE,2
+2007,42421,9714,gold,Fresno,SE,2
+2007,38871,NA,gray,Fresno,SEL,2
+2007,45559,7995,green,Fresno,SE,2
+2007,39174,NA,blue,Fresno,SE,2
+2007,41503,9714,gray,Fresno,SE,2
+2007,42513,9714,gray,Fresno,SE,2
+2007,41693,9714,gray,Fresno,SE,2
+2007,47595,9995,gray,Fresno,SEL,2
+2007,44650,7998,white,Fresno,SE,2
+2007,43050,10237,blue,Phoenix,SEL,2
+2007,26000,6500,burgundy,Phoenix,SEL,2
+2007,36638,8997,gold,Phoenix,SE,2
+2007,40449,8998,gold,Phoenix,SE,2
+2007,27752,11995,gray,Phoenix,SE,2
+2007,49541,8999,gray,Phoenix,SE,2
+2007,39029,10488,gray,Phoenix,SE,2
+2007,37006,9535,gray,Phoenix,SE,2
+2007,41717,8998,gray,Phoenix,SE,2
+2007,40998,8988,white,Phoenix,SE,2
+2008,9248,14998,white,Fresno,SEL,1
+2008,24034,NA,gray,Fresno,SEL,1
+2008,16396,19995,blue,Phoenix,SEL,1
+2008,20930,17288,blue,Phoenix,Limited,1
+2008,12584,15975,blue,Phoenix,SEL,1
+2008,15835,16988,burgundy,Phoenix,SEL,1
+2008,9779,19788,blue,Phoenix,Limited,1
+2008,24219,15988,blue,Phoenix,SEL,1
+2008,15603,18288,gray,Phoenix,Limited,1
+2008,18487,17445,red,Phoenix,Limited,1
+2008,19267,17287,gray,Phoenix,Limited,1
+2008,15896,18995,gray,Phoenix,Limited,1
+2008,12958,16995,gray,Phoenix,SEL,1
+2008,14551,18388,white,Phoenix,Limited,1
+2008,8587,15991,white,Phoenix,Limited,1
+2009,4424,21995,black,Phoenix,SEL,0
+2009,9307,19488,white,Phoenix,SEL,0
+2008,20074,19995,white,Cambridge,Limited,1
+2008,17265,19900,blue,Cambridge,Limited,1
+2008,20707,18999,gray,Cambridge,SEL,1
+2008,17912,18999,white,Cambridge,SEL,1
+2008,25896,18990,blue,Cambridge,SEL,1
+2008,22626,17999,gray,Cambridge,SEL,1
+2008,19633,17900,black,Cambridge,SEL,1
+2008,17580,17899,gray,Cambridge,SEL,1
+2008,16302,17888,gray,Cambridge,SEL,1
+2008,15261,17688,black,Cambridge,Limited,1
+2008,13697,17490,black,Cambridge,SEL,1
+2008,12781,17225,gray,Cambridge,Limited,1
+2008,7100,16999,gray,Cambridge,SEL,1
+2008,5872,16999,gray,Cambridge,SEL,1
+2008,11344,16995,gray,Cambridge,SEL,1
+2008,23665,16995,blue,Cambridge,SEL,1
+2008,22186,16990,burgundy,Cambridge,SEL,1
+2008,14330,16955,blue,Cambridge,SEL,1
+2008,13811,16900,white,Cambridge,SEL,1
+2008,39105,16450,black,Cambridge,SEL,1
+2008,24398,15999,gray,Cambridge,SEL,1
+2008,25316,15999,gray,Cambridge,SEL,1
+2008,15779,15994,black,Cambridge,Limited,1
+2008,61067,15990,gray,Cambridge,SEL,1
+2008,8381,15988,gray,Cambridge,SEL,1
+2008,26306,15900,white,Cambridge,SEL,1
+2008,26306,15776,blue,Cambridge,SEL,1
+2008,35486,14999,gray,Cambridge,Limited,1
+2008,33300,14999,gray,Cambridge,Limited,1
+2008,19342,14992,burgundy,Cambridge,SEL,1
+2008,27611,14975,beige,Cambridge,SEL,1
+2008,26649,14706,burgundy,Cambridge,Limited,1
+2008,32595,13998,green,Cambridge,SEL,1
+2008,28662,13941,gray,Cambridge,SEL,1
+2008,31051,13528,gray,Cambridge,SEL,1
+2007,16096,12999,black,Cambridge,SEL,2
+2007,32525,12995,burgundy,Cambridge,SEL,2
+2006,41558,12685,gray,Cambridge,SEL,3
+2006,44749,11885,gray,Cambridge,SEL,3
+2007,30544,11665,gray,Cambridge,SE,2
+2007,43559,11485,red,Cambridge,SEL,2
+2007,34479,10999,black,Cambridge,SE,2
+2007,33756,10995,green,Cambridge,SE,2
+2006,39756,10994,gray,Cambridge,SE,3
+2004,59721,10988,brown,Cambridge,SEL,5
+2007,33319,10865,gray,Cambridge,SE,2
+2007,34832,10695,black,Cambridge,SE,2
+2007,43236,10491,beige,Cambridge,SE,2
+2006,65484,10213,gray,Cambridge,SE,3
+2006,30426,9999,white,Cambridge,SE,3
+2006,46142,9995,gray,Cambridge,SE,3
+2005,67039,9995,gray,Cambridge,SE,4
+2006,50331,9995,gray,Cambridge,SE,3
+2005,72785,9995,white,Cambridge,SEL,4
+2006,39739,9995,beige,Cambridge,SEL,3
+2006,52218,9995,gray,Cambridge,SEL,3
+2006,44025,9995,green,Cambridge,SEL,3
+2007,40752,9995,gray,Cambridge,SE,2
+2007,30114,9988,gray,Cambridge,SEL,2
+2006,49777,9987,beige,Cambridge,SEL,3
+2006,51300,9977,blue,Cambridge,SE,3
+2006,71633,9975,black,Cambridge,SE,3
+2006,38000,9938,beige,Cambridge,SEL,3
+2007,52009,9499,green,Cambridge,SEL,2
+2007,35676,9444,gray,Cambridge,SE,2
+2006,45000,9000,burgundy,Cambridge,SE,3
+2005,53039,8999,gray,Cambridge,SE,4
+2006,66957,8999,burgundy,Cambridge,SE,3
+2003,51647,8995,black,Cambridge,SEL,6
+2004,38390,8995,burgundy,Cambridge,SE,5
+2007,46403,8995,gray,Cambridge,SE,2
+2006,48358,8995,red,Cambridge,SE,3
+2005,68349,8995,white,Cambridge,SE,4
+2003,62230,8991,gray,Cambridge,SE,6
+2005,39971,8980,brown,Cambridge,SE,4
+2006,45222,8950,blue,Cambridge,SE,3
+2007,40419,8940,green,Cambridge,SE,2
+2005,53235,8742,beige,Cambridge,SEL,4
+2005,69371,8588,beige,Cambridge,SEL,4
+2005,46087,8587,gray,Cambridge,SE,4
+2005,38610,8495,gray,Cambridge,SE,4
+2005,75809,8195,red,Cambridge,SE,4
+2004,56158,8174,gray,Cambridge,SE,5
+2006,60000,8000,beige,Cambridge,SE,3
+2003,45807,7999,white,Cambridge,SEL,6
+2005,78492,7999,black,Cambridge,SEL,4
+2007,73342,7995,gray,Cambridge,SE,2
+2004,54951,7995,burgundy,Cambridge,SE,5
+2004,52752,7995,green,Cambridge,SE,5
+2005,57909,7995,black,Cambridge,SE,4
+2003,70313,7990,gray,Cambridge,SES,6
+2005,48040,7990,black,Cambridge,SE,4
+2004,66540,7944,burgundy,Cambridge,SES,5
+2005,66783,7863,beige,Cambridge,SE,4
+2003,82785,7497,gray,Cambridge,SE,6
+2005,49150,7450,beige,Cambridge,SEL,4
+2003,49275,7288,green,Cambridge,SES,6
+2004,66227,7225,black,Cambridge,SES,5
+2003,73614,6999,gray,Cambridge,SES,6
+2001,68230,6999,green,Cambridge,SE,8
+2002,37145,6995,beige,Cambridge,SES,7
+2006,66662,6995,burgundy,Cambridge,SE,3
+2003,71291,6995,black,Cambridge,SES,6
+2008,77908,6995,beige,Cambridge,Limited,1
+2006,72781,6509,gray,Cambridge,SE,3
+2002,74999,6495,white,Cambridge,SES,7
+2005,55637,6495,beige,Cambridge,SE,4
+2007,40035,6477,red,Cambridge,SE,2
+2004,86411,6417,gray,Cambridge,SE,5
+2003,139950,6048,gray,Cambridge,SEL,6
+2004,82000,6000,green,Cambridge,SES,5
+2003,58204,5999,gray,Cambridge,SES,6
+2005,53870,5995,green,Cambridge,SE,4
+2002,59990,5995,beige,Cambridge,SES,7
+2004,51000,5995,black,Cambridge,SE,5
+1998,39000,5995,green,Cambridge,SE,11
+2001,81000,5850,red,Cambridge,SES,8
+2000,70000,5850,red,Cambridge,SES,9
+2003,91160,5837,red,Cambridge,SE,6
+2002,86795,5652,gray,Cambridge,SE,7
+2002,69998,5495,gray,Cambridge,SE,7
+2006,44935,5477,gray,Cambridge,SE,3
+2001,86000,5395,red,Cambridge,SES,8
+2006,73918,4900,gray,Cambridge,SE,3
+2002,52000,4850,blue,Cambridge,SES,7
+1999,52032,4500,green,Cambridge,LX,10
+2002,68282,4477,red,Cambridge,SE,7
+1999,76000,3999,gray,Cambridge,SES,10
+2002,74012,3995,red,Cambridge,SES,7
+2002,143414,3995,gray,Cambridge,SE,7
+2001,137000,3900,gray,Cambridge,SES,8
+1996,81290,3495,black,Cambridge,GL,13
+2003,147155,3000,beige,Cambridge,SES,6
+2002,130061,2995,black,Cambridge,SE,7
+1997,89654,2995,green,Cambridge,GL,12
+1998,92701,2495,beige,Cambridge,SE,11
+2002,181484,2000,black,Cambridge,SEL,7
+1999,160219,2000,blue,Cambridge,SE,10
+2000,104802,1975,beige,Cambridge,SES,9
+1998,112174,1500,burgundy,Cambridge,SE,11
+1999,99000,1500,black,Cambridge,LX,10
+2009,10638,21792,white,Philadelphia,Limited,0
+2008,14918,20990,white,Philadelphia,SEL,1
+2008,16787,19998,black,Philadelphia,Limited,1
+2008,46,19995,burgundy,Philadelphia,SEL,1
+2008,4853,19990,beige,Philadelphia,SEL,1
+2008,14924,19977,black,Philadelphia,Limited,1
+2008,42,19977,white,Philadelphia,SEL,1
+2007,33879,19950,gray,Philadelphia,SE,2
+2008,16020,18995,brown,Philadelphia,SEL,1
+2008,13873,18977,white,Philadelphia,Limited,1
+2008,15516,17988,gray,Philadelphia,SEL,1
+2008,13942,17488,gray,Philadelphia,SEL,1
+2008,10663,16270,red,Philadelphia,SEL,1
+2008,13418,15995,black,Philadelphia,SEL,1
+2008,21306,14995,gray,Philadelphia,SEL,1
+2008,24633,14995,white,Philadelphia,SEL,1
+2008,22327,14977,burgundy,Philadelphia,SEL,1
+2008,22372,13995,blue,Philadelphia,SEL,1
+2008,30979,13990,gray,Philadelphia,SEL,1
+2007,27966,12990,green,Philadelphia,SEL,2
+2007,27302,11999,green,Philadelphia,SE,2
+2003,39583,11990,black,Philadelphia,SEL,6
+2007,43576,11990,blue,Philadelphia,SEL,2
+2007,27757,11977,blue,Philadelphia,SE,2
+2006,26217,11690,black,Philadelphia,SE,3
+2007,31291,11478,burgundy,Philadelphia,SE,2
+2007,33000,10995,blue,Philadelphia,SEL,2
+2007,34004,10995,beige,Philadelphia,SEL,2
+2005,38529,10995,beige,Philadelphia,SEL,4
+2007,48309,10990,brown,Philadelphia,SE,2
+2007,32513,10988,beige,Philadelphia,SE,2
+2007,31819,10988,gray,Philadelphia,SE,2
+2006,29090,10950,green,Philadelphia,SE,3
+2006,49139,10933,beige,Philadelphia,SE,3
+2007,37029,10900,gray,Philadelphia,SE,2
+2005,32777,10498,beige,Philadelphia,SE,4
+2002,31760,9999,beige,Philadelphia,SEL,7
+2007,35656,9995,gray,Philadelphia,SE,2
+2006,35185,9995,red,Philadelphia,SE,3
+2007,27156,9995,gray,Philadelphia,SE,2
+2007,31777,9995,burgundy,Philadelphia,SE,2
+2007,28983,9995,gray,Philadelphia,SE,2
+2007,37565,9990,blue,Philadelphia,SE,2
+2006,53853,9990,gray,Philadelphia,SE,3
+2006,49326,9990,white,Philadelphia,SE,3
+2007,33375,9977,red,Philadelphia,SE,2
+2007,53357,9900,black,Philadelphia,SE,2
+2004,47844,9550,burgundy,Philadelphia,SEL,5
+2006,40241,9255,gray,Philadelphia,SE,3
+2005,69253,9000,gray,Philadelphia,SE,4
+2001,54392,8999,blue,Philadelphia,SES,8
+2007,53771,8995,beige,Philadelphia,SE,2
+2006,40268,8995,white,Philadelphia,SE,3
+2007,34366,8995,beige,Philadelphia,SE,2
+2007,61312,8995,gray,Philadelphia,SE,2
+2003,42612,8995,gray,Philadelphia,SE,6
+2007,61339,8995,burgundy,Philadelphia,SE,2
+2006,28335,8977,beige,Philadelphia,SE,3
+2007,40853,8945,beige,Philadelphia,SEL,2
+2006,50526,8900,gray,Philadelphia,SE,3
+2006,50165,8900,beige,Philadelphia,SE,3
+2007,38607,8884,beige,Philadelphia,SE,2
+2003,34486,8495,red,Philadelphia,SEL,6
+2006,50683,8495,red,Philadelphia,SEL,3
+2002,30889,8400,beige,Philadelphia,SEL,7
+2005,42438,7999,beige,Philadelphia,SE,4
+2002,78160,7995,white,Philadelphia,SES,7
+2001,118009,7995,white,Philadelphia,SES,8
+2007,81100,7995,black,Philadelphia,SE,2
+2005,63263,7995,gray,Philadelphia,SE,4
+2004,70368,7995,gray,Philadelphia,SEL,5
+2003,66013,7995,beige,Philadelphia,SES,6
+2005,43675,7991,white,Philadelphia,SE,4
+2006,67203,7990,green,Philadelphia,SE,3
+2006,68294,7990,gray,Philadelphia,SE,3
+2006,36050,7990,green,Philadelphia,SE,3
+2005,56351,7990,red,Philadelphia,SE,4
+2004,31392,7990,black,Philadelphia,SE,5
+2004,53700,7890,gray,Philadelphia,SE,5
+2006,56857,7843,gray,Philadelphia,SE,3
+2006,82576,7495,gray,Philadelphia,SE,3
+2004,39864,7240,white,Philadelphia,SES,5
+2006,66559,6998,gray,Philadelphia,SE,3
+2005,72808,6995,black,Philadelphia,SEL,4
+1999,120445,6995,green,Philadelphia,LX,10
+2003,86977,6995,gray,Philadelphia,SE,6
+2003,79055,6995,green,Philadelphia,SEL,6
+2002,63548,6995,gray,Philadelphia,SEL,7
+2003,66231,6995,gray,Philadelphia,SE,6
+2003,83708,6990,red,Philadelphia,SES,6
+2004,62460,6990,beige,Philadelphia,SES,5
+2004,61743,6988,black,Philadelphia,SES,5
+2005,60505,6745,gray,Philadelphia,SE,4
+2002,72599,6495,beige,Philadelphia,SE,7
+2005,58630,6490,burgundy,Philadelphia,SE,4
+2005,51516,6350,gray,Philadelphia,SE,4
+2005,71321,6250,black,Philadelphia,SE,4
+2005,77719,6250,white,Philadelphia,SE,4
+2002,57936,5999,gray,Philadelphia,SES,7
+2001,70292,5995,beige,Philadelphia,SE,8
+2006,84127,5995,gray,Philadelphia,SE,3
+2002,67477,5995,gray,Philadelphia,SE,7
+1999,66668,5988,burgundy,Philadelphia,SE,10
+2002,80185,5988,black,Philadelphia,SES,7
+1999,67202,5963,red,Philadelphia,SE,10
+1999,95909,5950,green,Philadelphia,SE,10
+2003,63000,5499,blue,Philadelphia,SEL,6
+2003,103826,5495,burgundy,Philadelphia,SE,6
+2003,84900,5495,white,Philadelphia,SES,6
+2003,67005,5490,gray,Philadelphia,LX,6
+2002,78353,5450,burgundy,Philadelphia,SE,7
+2001,111572,4998,green,Philadelphia,SE,8
+1999,53216,4995,green,Philadelphia,SE,10
+2002,85134,4995,beige,Philadelphia,SES,7
+2001,108000,4990,beige,Philadelphia,SES,8
+2000,77752,4977,green,Philadelphia,SES,9
+2002,105475,4790,gray,Philadelphia,SE,7
+1999,65628,4500,gray,Philadelphia,SE,10
+2002,90000,4495,green,Philadelphia,SES,7
+2001,122084,4480,blue,Philadelphia,SE,8
+2001,73825,4050,gray,Philadelphia,SES,8
+2003,84046,3995,gray,Philadelphia,SES,6
+1996,112559,3995,green,Philadelphia,LX,13
+2000,98194,3995,beige,Philadelphia,SE,9
+2001,100500,3995,blue,Philadelphia,SEL,8
+1997,128274,3995,green,Philadelphia,GL,12
+2000,103825,3900,red,Philadelphia,SE,9
+1998,86100,3895,green,Philadelphia,SE,11
+2000,147234,3819,gray,Philadelphia,SES,9
+2001,143893,3495,gray,Philadelphia,SES,8
+1996,81722,2999,white,Philadelphia,LX,13
+1999,119633,2995,burgundy,Philadelphia,SE,10
+1999,109052,2995,red,Philadelphia,SE,10
+1997,109216,2995,gray,Philadelphia,GL,12
+1996,118315,2950,white,Philadelphia,GL,13
+1999,121099,2747,green,Philadelphia,SE,10
+1999,134262,1995,gray,Philadelphia,SE,10
+2006,44185,9925,beige,St Paul,SEL,3
+2008,36477,16491,beige,Dallas,Limited,1
+2006,17196,15995,beige,Dallas,SEL,3
+2006,44295,10990,beige,Dallas,SE,3
+2007,41774,10899,beige,Dallas,SEL,2
+2007,48656,10777,beige,Dallas,SEL,2
+2006,50229,9899,beige,Dallas,SE,3
+2004,43571,8950,beige,Dallas,SEL,5
+2006,74876,8409,beige,Dallas,SEL,3
+2003,76465,5950,beige,Dallas,SES,6
+2002,76063,4995,beige,Dallas,SE,7
+2002,96358,3988,beige,Dallas,SE,7
+2002,123147,3500,beige,Dallas,SES,7
+2005,52804,8982,beige,St Paul,SEL,4
+2005,57910,8900,beige,St Paul,SE,4
+2007,37797,8488,beige,St Paul,SE,2
+2007,42810,8400,beige,St Paul,SE,2
+2005,74483,7999,beige,St Paul,SE,4
+2005,70830,6990,beige,St Paul,SE,4
+1994,128413,1599,beige,St Paul,GL,15
+2009,5625,19977,black,St Paul,SEL,0
+2008,8909,18997,black,St Paul,Limited,1
+2008,15581,17999,black,St Paul,SEL,1
+2008,22042,17499,black,St Paul,SEL,1
+2008,27810,16588,black,St Paul,Limited,1
+2008,26926,13985,black,St Paul,SEL,1
+2008,30919,13980,black,St Paul,SEL,1
+1998,176634,9999,black,Dallas,SE,11
+2007,34279,9991,black,Dallas,SE,2
+2007,42827,9899,black,Dallas,SE,2
+2003,72861,4995,black,Dallas,SE,6
+2004,79650,4950,black,Dallas,SE,5
+2003,106325,3995,black,Dallas,SE,6
+2007,36610,8988,black,St Paul,SE,2
+2003,77905,6995,black,St Paul,SES,6
+2002,134000,5995,black,St Paul,NA,7
+2000,64600,5995,black,St Paul,SE,9
+1998,87102,3999,black,St Paul,SE,11
+1998,112049,3995,black,St Paul,SE,11
+1997,137259,2988,black,St Paul,LX,12
+1994,178526,1995,black,St Paul,GL,15
+2008,18544,16988,blue,St Paul,SEL,1
+2008,18169,16988,blue,St Paul,SEL,1
+2008,15932,15797,blue,St Paul,SEL,1
+2008,24237,15488,blue,St Paul,SEL,1
+2008,42371,14997,blue,St Paul,SEL,1
+2008,21038,13997,blue,St Paul,SEL,1
+2008,29768,13997,blue,St Paul,SEL,1
+2008,18199,13995,blue,St Paul,SEL,1
+2008,21199,13980,blue,St Paul,SEL,1
+2007,35792,12990,blue,St Paul,SEL,2
+2008,21501,12680,blue,St Paul,SEL,1
+2007,34338,10395,blue,St Paul,SEL,2
+2007,44552,9990,blue,St Paul,SE,2
+2008,14588,16954,blue,Dallas,SEL,1
+2007,38701,9341,blue,Dallas,SE,2
+2001,54291,6991,blue,Dallas,SES,8
+2001,69730,5591,blue,Dallas,SE,8
+2000,129877,4450,blue,Dallas,SE,9
+1993,120825,1995,blue,Dallas,GL,16
+2007,38517,8995,blue,St Paul,SEL,2
+2001,93310,7000,blue,St Paul,LX,8
+2000,116861,4490,blue,St Paul,SE,9
+1999,122074,2995,blue,St Paul,LX,10
+1999,141263,2450,blue,St Paul,SE,10
+2007,36389,11988,burgundy,St Paul,SEL,2
+2008,18200,16000,burgundy,St Paul,SEL,1
+2008,19714,14497,burgundy,St Paul,SEL,1
+2008,13929,14480,burgundy,St Paul,SEL,1
+2008,23966,13997,burgundy,St Paul,SEL,1
+2007,51984,9950,burgundy,St Paul,SEL,2
+2001,34553,9477,burgundy,St Paul,SE,8
+2008,35952,14292,burgundy,Dallas,SEL,1
+2006,44415,11995,burgundy,Dallas,SE,3
+2007,49346,9950,burgundy,Dallas,SE,2
+2007,49674,9480,burgundy,Dallas,SE,2
+2005,54763,8999,burgundy,Dallas,SEL,4
+2006,37701,8999,burgundy,Dallas,SE,3
+2005,74223,8988,burgundy,Dallas,SEL,4
+2000,60481,7998,burgundy,Dallas,SES,9
+2006,86414,7995,burgundy,Dallas,SEL,3
+2006,88204,7875,burgundy,Dallas,SEL,3
+2005,65414,7493,burgundy,Dallas,SEL,4
+2007,48140,6993,burgundy,Dallas,SE,2
+2002,121000,3500,burgundy,Dallas,SE,7
+2000,95233,7990,burgundy,St Paul,SE,9
+2005,76389,7192,burgundy,St Paul,SE,4
+2002,125589,4990,burgundy,St Paul,SES,7
+2008,15007,15998,gold,Dallas,SEL,1
+2005,38462,10995,gold,Dallas,SE,4
+2006,43593,10990,gold,Dallas,SE,3
+2006,65956,8999,gold,Dallas,SEL,3
+2007,86910,8995,gold,Dallas,SE,2
+2001,110903,4995,gold,Dallas,LX,8
+2000,77028,4886,gold,Dallas,SE,9
+2001,152011,3995,gold,Dallas,SE,8
+2001,164840,3995,gold,St Paul,SES,8
+1999,NA,3450,gold,St Paul,SE,10
+1998,NA,2950,gold,St Paul,SE,11
+2009,5384,19997,gray,St Paul,Limited,0
+2008,10966,19995,gray,St Paul,Limited,1
+2008,10641,16998,gray,St Paul,SEL,1
+2008,9598,16988,gray,St Paul,SEL,1
+2008,14579,16988,gray,St Paul,SEL,1
+2008,17948,16988,gray,St Paul,SEL,1
+2008,14909,16988,gray,St Paul,Limited,1
+2008,13294,16988,gray,St Paul,SEL,1
+2008,27198,16884,gray,St Paul,SEL,1
+2008,20004,16777,gray,St Paul,SEL,1
+2008,21298,15997,gray,St Paul,SEL,1
+2008,20129,14997,gray,St Paul,SEL,1
+2008,13821,14995,gray,St Paul,SEL,1
+2008,21031,14980,gray,St Paul,SEL,1
+2008,22736,14980,gray,St Paul,Limited,1
+2007,35810,11291,gray,St Paul,SEL,2
+2006,41563,10995,gray,St Paul,SEL,3
+2003,99365,9990,gray,St Paul,SEL,6
+2007,32296,9988,gray,St Paul,SE,2
+2007,37864,9988,gray,St Paul,SE,2
+2008,9898,17981,gray,Dallas,SEL,1
+2008,14636,17981,gray,Dallas,SEL,1
+2008,27425,17981,gray,Dallas,SEL,1
+2008,23418,16350,gray,Dallas,SEL,1
+2006,11192,15995,gray,Dallas,SEL,3
+2006,14490,15995,gray,Dallas,SEL,3
+2008,13733,15988,gray,Dallas,SEL,1
+2008,26283,15973,gray,Dallas,SEL,1
+2006,21234,12987,gray,Dallas,SE,3
+2006,32042,11998,gray,Dallas,SEL,3
+2006,18319,11987,gray,Dallas,SEL,3
+2004,31250,10000,gray,Dallas,SE,5
+2007,31783,9999,gray,Dallas,SE,2
+2007,46888,9995,gray,Dallas,SE,2
+2005,46379,9945,gray,Dallas,SEL,4
+2003,43423,8991,gray,Dallas,SEL,6
+2006,46635,8983,gray,Dallas,SE,3
+2007,33625,8979,gray,Dallas,SE,2
+2006,55332,8977,gray,Dallas,SE,3
+2007,46639,8950,gray,Dallas,SE,2
+2005,62381,7992,gray,Dallas,SE,4
+2002,31140,7991,gray,Dallas,SES,7
+2006,61788,7950,gray,Dallas,SE,3
+2005,60346,7888,gray,Dallas,SE,4
+2006,77188,7675,gray,Dallas,SE,3
+2007,54760,7450,gray,Dallas,SE,2
+2007,32000,7400,gray,Dallas,SE,2
+2005,65863,6983,gray,Dallas,SEL,4
+2004,73063,6980,gray,Dallas,SES,5
+2004,98250,6950,gray,Dallas,SES,5
+2006,75800,6750,gray,Dallas,SE,3
+2002,50575,5988,gray,Dallas,SE,7
+2002,131876,4995,gray,Dallas,SES,7
+2001,99134,4992,gray,Dallas,SES,8
+2004,70000,4950,gray,Dallas,SE,5
+2004,95000,4750,gray,Dallas,SES,5
+1999,62969,4500,gray,Dallas,SE,10
+2003,59000,4450,gray,Dallas,SE,6
+2003,NA,3995,gray,Dallas,SES,6
+2002,133458,3200,gray,Dallas,SES,7
+2001,150000,2500,gray,Dallas,SE,8
+2007,42625,8995,gray,St Paul,SEL,2
+2007,45011,8988,gray,St Paul,SEL,2
+2003,79578,8888,gray,St Paul,SEL,6
+2004,70037,6995,gray,St Paul,SES,5
+2005,65133,6990,gray,St Paul,SE,4
+2005,87743,5880,gray,St Paul,SEL,4
+2001,47920,4995,gray,St Paul,SES,8
+2001,123055,4455,gray,St Paul,SE,8
+2008,35508,13995,green,St Paul,SEL,1
+2008,78416,12485,green,St Paul,SEL,1
+2006,43125,10599,green,Dallas,SEL,3
+2007,33231,9950,green,Dallas,SE,2
+2006,68955,8495,green,Dallas,SEL,3
+2006,79608,7995,green,Dallas,SEL,3
+2006,91050,7950,green,Dallas,SE,3
+2007,37000,7250,green,Dallas,SE,2
+2006,70192,6995,green,Dallas,SEL,3
+2006,87291,6950,green,Dallas,SE,3
+2005,57000,5300,green,Dallas,SE,4
+1998,125000,2599,green,Dallas,LX,11
+2004,114000,5995,green,St Paul,SEL,5
+1994,91000,1495,green,St Paul,GL,15
+2006,39021,11611,green,Dallas,SEL,3
+2006,58000,5900,NA,Dallas,SE,3
+2005,45000,4950,NA,Dallas,SEL,4
+2003,88000,4500,NA,Dallas,SE,6
+1997,118000,2250,NA,Dallas,NA,12
+2006,100000,8900,NA,St Paul,SE,3
+2001,94028,4997,NA,St Paul,SES,8
+2007,59903,8999,red,St Paul,SEL,2
+2007,49591,9900,red,Dallas,SE,2
+2003,109892,5495,red,Dallas,SES,6
+1999,89986,5995,red,St Paul,SE,10
+2000,104675,4995,red,St Paul,SES,9
+2007,28640,9995,white,Dallas,SE,2
+2009,5023,19988,white,St Paul,SEL,0
+2008,19102,17499,white,St Paul,SEL,1
+2008,22451,15988,white,St Paul,Limited,1
+2008,22613,14997,white,St Paul,SEL,1
+2008,17877,14997,white,St Paul,SEL,1
+2008,16304,14480,white,St Paul,Limited,1
+2007,41268,9291,white,St Paul,SE,2
+2009,6571,19998,white,Dallas,SEL,0
+2008,15261,19326,white,Dallas,Limited,1
+2008,31339,18989,white,Dallas,Limited,1
+2008,15539,18474,white,Dallas,SEL,1
+2008,13622,17981,white,Dallas,SEL,1
+2008,27942,17981,white,Dallas,SEL,1
+2008,23606,17981,white,Dallas,SEL,1
+2008,12515,17398,white,Dallas,SEL,1
+2007,30041,15995,white,Dallas,SEL,2
+2006,47844,11991,white,Dallas,SEL,3
+2007,43546,11987,white,Dallas,SEL,2
+2007,43018,10998,white,Dallas,SEL,2
+2006,47800,10990,white,Dallas,SE,3
+2007,39406,10900,white,Dallas,SE,2
+2006,50420,10599,white,Dallas,SEL,3
+2005,36520,9998,white,Dallas,SE,4
+2007,42754,9888,white,Dallas,SE,2
+2005,39832,9599,white,Dallas,SE,4
+2006,57008,8999,white,Dallas,SE,3
+2004,38130,8995,white,Dallas,SE,5
+2005,64347,7990,white,Dallas,SE,4
+2007,23450,7950,white,Dallas,SEL,2
+2004,87292,7488,white,Dallas,SES,5
+2004,63980,7476,white,Dallas,SE,5
+2002,79068,6973,white,Dallas,SES,7
+2003,56623,6900,white,Dallas,SE,6
+2005,87000,6500,white,Dallas,NA,4
+2004,90000,5000,white,Dallas,SEL,5
+2003,110000,4000,white,Dallas,SES,6
+2001,NA,3495,white,Dallas,SES,8
+1996,103290,2999,white,Dallas,GL,13
+2002,57526,7998,white,St Paul,SES,7
+2006,50526,7977,white,St Paul,SE,3
+2007,89263,6995,white,St Paul,SE,2
+2004,60215,6950,white,St Paul,SE,5
+2002,80333,5950,white,St Paul,SES,7
+2003,91208,5950,white,St Paul,SE,6
+2003,60375,5950,white,St Paul,SE,6
+2001,90767,4990,white,St Paul,SES,8
+1999,99375,4855,white,St Paul,SE,10
+2001,93000,4450,white,St Paul,SEL,8
+2002,121120,3995,white,St Paul,SE,7
+2000,NA,3950,white,St Paul,SE,9
+1999,123516,3499,white,St Paul,SE,10
+2100,146961,2995,white,St Paul,GL,15
+1996,173654,1999,white,St Paul,GL,13
+2008,5891,18473,white,Dallas,SEL,1
